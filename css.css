@@ -172,7 +172,7 @@ color:forestgreen;
      
 /*Q&A的块级*/
 #wenda{background-image: url('./素材/images/lansebeijing.png');overflow: auto;}
-.dropdown {position: relative;display:block;margin: auto;}
+.dropdown {position: relative;display:block;margin: auto;text-align: center;}
 .dropdown-content {color: azure;margin: auto;
   display: none;
   position: absolute;
